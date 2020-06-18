@@ -6,6 +6,8 @@ public class Main {
 		
 		Scanner sc = new Scanner(System.in);
 		
+		
+		
 		System.out.println("Que voulez vous convertir ?");
 		System.out.println("1. Des euro en francs");
 		System.out.println("2. Des francs en euro");
